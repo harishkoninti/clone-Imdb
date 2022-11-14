@@ -44,7 +44,7 @@ export default function NavBar() {
 
         <nav className="navbar navbar-expand-lg navbar-light bg-light navbar-custom"> 
             <a className="navbar-brand" href="/">
-                <img src={logo} height="40" alt=""/>
+                {/* <img src={logo} height="40" alt=""/> */}
             </a>
             <div className="collapse navbar-collapse float-right" id="navbarNavDropdown">
                 <ul className="navbar-nav">
